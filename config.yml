@@ -1,0 +1,10 @@
+discordid: '677920164712415254' # Здесь должен быть ID пользователя дискорд (обязательно)
+user_firstname: 'v3sker' # Имя пользователя или псевдоним (Обязательно)
+userbio: 'Great power always baffles primitive people.' # Описание профиля пользователя (обязательно)
+
+instagram_login: '@v3skerxd' # Логин от инстаграм (Не обязательно)
+website_url: '' # Ссылка на сайт (Не обязательно)
+twitter_login: '@v3sker' # Логин от твиттер (Не обязательно)
+
+profile_theme: 'dark' # Стиль профиля, доступные стили dark, light
+profile_color: 'rgb(32, 34, 37)' # Цвет рамки профиля
