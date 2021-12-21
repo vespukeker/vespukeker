@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**vespukeker/vespukeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Name:** Daniil
+* **Surname:** Vesker
+* **Player experience:** CS games - 7 years. CS:GO - 5 years. (4.000 hours) 
 
-Here are some ideas to get you started:
+I am starter cybersports player. Currently playing for team NoMercy -> [My Team](https://www.faceit.com/ru/teams/306a6ec3-3564-4f0e-b24f-6020f95172bd)
+Also, I love to play different games, starting from RPG, ending with shooters. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My links:
+<img alt="Steam" src="https://bit.ly/3EjecuY" /> [Steam](https://steamcommunity.com/id/v3sker/)
+
+ICO [Telegram](https://t.me/v3sker/)
+ICO [FaceIt](https://www.faceit.com/ru/players/v3skerrrrr)
+ICO [VK.com](https://vk.com/antexp/)
+ICO [Twitch](https://twitch.tv/v3skerxd/)
+
+<!--**vespukeker/vespukeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
+
+
+
