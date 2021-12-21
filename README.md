@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-* **Name:** Daniil
-* **Surname:** Vesker
-* **Player experience:** CS games - 7 years. CS:GO - 5 years. (4.000 hours) 
+* **Name:** Daniil.
+* **Surname:** Gynga.
+* **Nickname:** *v3sker*.
+* **Player experience:** CS - 7 years. CS:GO - 5 years. (~4.000 hours). 
 
-I am starter cybersports player. Currently playing for team NoMercy -> [My Team](https://www.faceit.com/ru/teams/306a6ec3-3564-4f0e-b24f-6020f95172bd)<br>
+I am starter cybersports player. Currently playing for team NoMercy -> [My Team](https://www.faceit.com/ru/teams/306a6ec3-3564-4f0e-b24f-6020f95172bd).<br>
 Also, I love to play different games, starting from RPG, ending with shooters. <br>
 <br>
 **My links:**
