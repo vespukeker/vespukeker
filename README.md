@@ -8,7 +8,7 @@ I am starter cybersports player. Currently playing for team NoMercy -> [My Team]
 Also, I love to play different games, starting from RPG, ending with shooters. <br>
 <br>
 My links:
-* <img alt="Steam" src="https://bit.ly/3EjecuY" width="50px" height="50px"/> [Steam](https://steamcommunity.com/id/v3sker/)
+* <img alt="Steam" src="https://bit.ly/3EjecuY" width="20px" height="20px"/> [Steam](https://steamcommunity.com/id/v3sker/)
 
 ICO [Telegram](https://t.me/v3sker/)
 ICO [FaceIt](https://www.faceit.com/ru/players/v3skerrrrr)
