@@ -12,7 +12,7 @@ My links:
 <img alt="Telegram" src="https://cdn.freebiesupply.com/logos/large/2x/telegram-logo-svg-vector.svg" width="20px" height="20px"/> [Telegram](https://t.me/v3sker/)
 <img alt="Faceit" src="https://www.esportsearnings.com/images/logos/l/053/faceit-pro-league.png" width="25px" height="25px"/> [FaceIt](https://www.faceit.com/ru/players/v3skerrrrr)
 <img alt="VK" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" width="20px" height="20px"/> [VK.com](https://vk.com/antexp/)
-<img alt="Twitch" src="https://bit.ly/3EjecuY" width="20px" height="20px"/> [Twitch](https://twitch.tv/v3skerxd/)
+<img alt="Twitch" src="https://www.freepnglogos.com/uploads/purple-twitch-logo-png-18.png" width="20px" height="20px"/> [Twitch](https://twitch.tv/v3skerxd/)
 
 <!--**vespukeker/vespukeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
