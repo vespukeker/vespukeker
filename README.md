@@ -10,7 +10,7 @@ Also, I love to play different games, starting from RPG, ending with shooters. <
 My links:
 <img alt="Steam" src="https://bit.ly/3EjecuY" width="20px" height="20px"/> [Steam](https://steamcommunity.com/id/v3sker/)
 <img alt="Steam" src="https://cdn.freebiesupply.com/logos/large/2x/telegram-logo-svg-vector.svg" width="20px" height="20px"/> [Telegram](https://t.me/v3sker/)
-<img alt="Steam" src="https://bit.ly/3EjecuY" width="20px" height="20px"/> [FaceIt](https://www.faceit.com/ru/players/v3skerrrrr)
+<img alt="Steam" src="https://www.esportsearnings.com/images/logos/l/053/faceit-pro-league.png" width="20px" height="20px"/> [FaceIt](https://www.faceit.com/ru/players/v3skerrrrr)
 <img alt="Steam" src="https://bit.ly/3EjecuY" width="20px" height="20px"/> [VK.com](https://vk.com/antexp/)
 <img alt="Steam" src="https://bit.ly/3EjecuY" width="20px" height="20px"/> [Twitch](https://twitch.tv/v3skerxd/)
 
