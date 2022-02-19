@@ -4,7 +4,7 @@
 * **Surname:** Gynga.
 * **Nickname:** *v3sker*.
 * **Coding experience:** Very low. Just few projects as Minecraft Servers, forums, and a little bit of experience codes.
-* **Player experience:** CS - 7 years. CS:GO - 5 years. (~4.000 hours). 
+* **Player experience:** CS - 10 years. CS:GO - 6 years. (~4.000 hours). 
 
 I am starter cybersports player. Currently playing for team NoMercy -> [My Team](https://www.faceit.com/ru/teams/306a6ec3-3564-4f0e-b24f-6020f95172bd).<br>
 In free time, i learn coding, on languages as C# and Java. Java helped me administrating *Minecraft Server* [NPServers](https://npservers.ru/).<br>
